@@ -50,9 +50,13 @@ Implement a Node.js server endpoint that receives a POST request with a JSON pay
 
 Showcasing the listing of jobs, use filter 
 
+<hr>
+
 ## 10. [Calculator](https://github.com/ItsRoy69/Practice/tree/main/Calculator)
 
 Calculator to perform basic arithmetic, but using an alternative syntax for writing the expressions.
+
+<hr>
 
 ## 11. [Render API EndPoint](https://github.com/ItsRoy69/Practice/blob/main/Render)
 
