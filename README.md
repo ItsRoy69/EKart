@@ -61,3 +61,9 @@ Calculator to perform basic arithmetic, but using an alternative syntax for writ
 ## 11. [Render API EndPoint](https://github.com/ItsRoy69/Practice/blob/main/Render)
 
 Write a React component that fetches data from an API endpoint and renders a list of items. Each item should display the item's name and description.
+
+<hr>
+
+## 12. [Difference between useState & useRef](https://github.com/ItsRoy69/Practice/tree/main/Diff)
+
+Write the difference between useState and useReference
