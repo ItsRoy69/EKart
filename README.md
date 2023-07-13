@@ -67,3 +67,31 @@ Write a React component that fetches data from an API endpoint and renders a lis
 ## 12. [Difference between useState & useRef](https://github.com/ItsRoy69/Practice/tree/main/Diff)
 
 Write the difference between useState and useReference
+
+<hr>
+
+## 13. [Reverse a String](https://github.com/ItsRoy69/Practice/tree/main/Reverse)
+
+Implement a function to reverse a string in JavaScript. 
+
+Example: Input: "Hello World" Output: "dlroW olleH"
+
+<hr>
+
+## 14. [Add inside array](https://github.com/ItsRoy69/Practice/tree/main/Add)
+
+Write a function in Javascript to find the sum of all the numbers in a given list.
+
+Example: Input: [1, 2, 3, 4, 5] Output: 15
+
+<hr>
+
+## 15. [SQL-Query](https://github.com/ItsRoy69/Practice/tree/main/SQL-Query)
+
+Write a SQL query to find the second highest salary from an "Employees" table in a database.
+
+<hr>
+
+## 16. [Recursive](https://github.com/ItsRoy69/Practice/tree/main/Recursive)
+
+Implement a recursive function in js to calculate the factorial of a given number.
