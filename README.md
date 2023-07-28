@@ -40,7 +40,7 @@ Create a MongoDB schema for a "User" collection with fields for username (string
 
 <hr>
 
-## 8. [Validation](https://github.com/ItsRoy69/Practice/blob/main/post) 
+## 8. [Validation](https://github.com/ItsRoy69/Practice/blob/main/post)
 
 Implement a Node.js server endpoint that receives a POST request with a JSON payload containing a username and password. Validate the input data and return a response with a success message if the username is "admin" and the password is "password", otherwise return an error message.
 
@@ -48,7 +48,7 @@ Implement a Node.js server endpoint that receives a POST request with a JSON pay
 
 ## 9. [Static Filter](https://github.com/ItsRoy69/Practice/blob/main/Static-job-listing)
 
-Showcasing the listing of jobs, use filter 
+Showcasing the listing of jobs, use filter
 
 <hr>
 
@@ -72,7 +72,7 @@ Write the difference between useState and useReference
 
 ## 13. [Reverse a String](https://github.com/ItsRoy69/Practice/tree/main/Reverse)
 
-Implement a function to reverse a string in JavaScript. 
+Implement a function to reverse a string in JavaScript.
 
 Example: Input: "Hello World" Output: "dlroW olleH"
 
@@ -95,3 +95,81 @@ Write a SQL query to find the second highest salary from an "Employees" table in
 ## 16. [Recursive](https://github.com/ItsRoy69/Practice/tree/main/Recursive)
 
 Implement a recursive function in js to calculate the factorial of a given number.
+
+<hr>
+
+## 17. [ChessBoard](https://github.com/ItsRoy69/Practice/tree/main/ChessBoard)
+
+Create chessboard using javascript by taking input of size from user
+
+<hr>
+
+## 18. [UserTicTacToe](https://github.com/ItsRoy69/Practice/tree/main/UserTicTacToe)
+
+Create a tictactoe using javascript which user wins only matches if user matches crisscross and vertically but gives error message if user matches horizontally in tic or tac
+
+<hr>
+
+## 19. [Hamburger](https://github.com/ItsRoy69/Practice/tree/main/Hamburger)
+
+Create hamburger icon with functionality
+
+<hr>
+
+## 20. [Light Dark Button](https://github.com/ItsRoy69/Practice/tree/main/LightDark)
+
+Implement dark theme ,light theme toggle button
+
+<hr>
+
+## 21. [Filter Box](https://github.com/ItsRoy69/Practice/tree/main/Filter)
+
+Filtering of data in table.
+
+<hr>
+
+## 20. [Bubble Sort](https://github.com/ItsRoy69/Practice/tree/main/BubbleSort)
+
+Implement bubble sort in sorting data
+
+<hr>
+
+## 20. [Insertion Sort](https://github.com/ItsRoy69/Practice/tree/main/InsertionSort)
+
+Implement Insertion Sort in sorting data
+
+<hr>
+
+## 20. [Quick Sort](https://github.com/ItsRoy69/Practice/tree/main/QuickSort)
+
+Implement Quick Sort in sorting data
+
+<hr>
+
+## 20. [Pass data from children to parent components](https://github.com/ItsRoy69/Practice/tree/main/DataPass)
+
+Pass data from children to parent components
+
+<hr>
+
+
+## 20. [ToDo](https://github.com/ItsRoy69/Practice/tree/main/ToDo)
+
+Create a to-do list, all CRUD operations on checking the checkbox the item should show strike-through.
+
+<hr>
+
+
+## 20. [Radio Button](https://github.com/ItsRoy69/Practice/tree/main/RadioButton)
+
+Create one div container and 3 radio buttons with labels red, blue and mix if I check red the div background -> red and vice versa.
+
+<hr>
+
+
+## 20. [Slideshow](https://github.com/ItsRoy69/Practice/tree/main/Slideshow)
+
+Create a slideshow component
+
+<hr>
+
