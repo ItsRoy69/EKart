@@ -167,7 +167,7 @@ Create one div container and 3 radio buttons with labels red, blue and mix if I 
 <hr>
 
 
-## 20. [Slideshow](https://github.com/ItsRoy69/Practice/tree/main/Slideshow)
+## 20. [Slideshow](https://github.com/ItsRoy69/Practice/tree/main/SlideShow)
 
 Create a slideshow component
 
