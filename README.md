@@ -152,13 +152,11 @@ Pass data from children to parent components
 
 <hr>
 
-
 ## 20. [ToDo](https://github.com/ItsRoy69/Practice/tree/main/ToDo)
 
 Create a to-do list, all CRUD operations on checking the checkbox the item should show strike-through.
 
 <hr>
-
 
 ## 20. [Radio Button](https://github.com/ItsRoy69/Practice/tree/main/RadioButton)
 
@@ -166,10 +164,48 @@ Create one div container and 3 radio buttons with labels red, blue and mix if I 
 
 <hr>
 
-
 ## 20. [Slideshow](https://github.com/ItsRoy69/Practice/tree/main/SlideShow)
 
 Create a slideshow component
 
 <hr>
 
+## 21. [Sidebar](https://github.com/ItsRoy69/Practice/tree/main/Sidebar)
+
+Create a Sidebar component
+
+<hr>
+
+## 21. [Carousel](https://github.com/ItsRoy69/Practice/tree/main/Carousel)
+
+Create a Carousel component
+
+<hr>
+
+## 21. [InfiniteCarousel](https://github.com/ItsRoy69/Practice/tree/main/InfiniteCarousel)
+
+Create a InfiniteCarousel component
+
+<hr>
+
+## 21. [ProgressBar](https://github.com/ItsRoy69/Practice/tree/main/Progressbar)
+
+Create a progressbar queue when clicking a button and make it animate.
+
+<hr>
+
+## 22. [BishopCheckboard](https://github.com/ItsRoy69/Practice/tree/main/BishopCheckboard)
+
+Create a checkboard which shows bishop view.
+
+<hr>
+
+## 21. [Rating Star](https://github.com/ItsRoy69/Practice/tree/main/Star)
+
+Create a star rating 
+
+<hr>
+
+## 21. [Visualisation of data](https://github.com/ItsRoy69/Practice/tree/main/Visualisation)
+
+Create a Visualisation of data from API in table
