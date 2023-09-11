@@ -2,7 +2,7 @@
   "name": "etracker",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://etracker-9fhd.onrender.com/",
+  "proxy": "https://etracker-0ckb.onrender.com/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
