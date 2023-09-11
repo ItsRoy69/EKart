@@ -16,6 +16,7 @@ app.use(Router);
 mongoose
   .connect(dbURI)
   .then((result) => {
+    mongoose.set('strictQuery', false);
     app.listen(port);
     console.log("connected to mongodb and listening at port 5000");
   })
