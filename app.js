@@ -19,7 +19,10 @@ mongoose
     app.listen(port);
     console.log("connected to mongodb and listening at port 5000");
   })
-  .catch((err) => console.error(err));
+  .catch((err) => {
+    console.error("MongoDB connection error:", err);
+    process.exit(1);
+  });
 
 if (process.env.NODE_ENV == "production") {
   app.use(express.static("client/build"));
